@@ -1,0 +1,6 @@
+## Interface: 70300
+## X-Credits: Starfox
+## Title: RelicHelper
+## SavedVariables: RelicHelper_SV
+## Dependencies: Blizzard_ArtifactUI
+relichelper.lua

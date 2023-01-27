@@ -1,0 +1,64 @@
+------------------------------------------------------------------------
+r289 | nevcairiel | 2018-06-24 17:35:30 +0000 (Sun, 24 Jun 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes_HandyNotes.lua
+
+Implement note creation with Alt-RightClick and Node moving for BfA
+------------------------------------------------------------------------
+r288 | nevcairiel | 2018-05-16 20:44:05 +0000 (Wed, 16 May 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+
+Update for recent Beta changes
+------------------------------------------------------------------------
+r287 | h.leppkes@gmail.com | 2018-05-04 13:02:24 +0000 (Fri, 04 May 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+   M /trunk/HandyNotes_EditFrame.lua
+   M /trunk/HandyNotes_HandyNotes.lua
+
+Some work on the internal HandyNotes plugin for WoW80
+------------------------------------------------------------------------
+r286 | nevcairiel | 2018-04-30 13:37:14 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+
+Document GetNodes2 in the source
+------------------------------------------------------------------------
+r285 | nevcairiel | 2018-04-30 13:18:55 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+
+Tweak World Map rendering some
+------------------------------------------------------------------------
+r284 | nevcairiel | 2018-04-30 13:13:07 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+   M /trunk/HandyNotes.toc
+   A /trunk/HandyNotes.xml
+
+Draft support for WoW 8.0/BfA
+------------------------------------------------------------------------
+r283 | nevcairiel | 2018-04-30 09:24:10 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes_HandyNotes.lua
+
+Remove pre-legion compat
+------------------------------------------------------------------------
+r282 | nevcairiel | 2018-04-30 09:22:42 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/HandyNotes.lua
+   M /trunk/HandyNotes.toc
+
+Update HereBeDragons references for HBD-2.0
+------------------------------------------------------------------------
+r281 | nevcairiel | 2018-04-30 09:19:56 +0000 (Mon, 30 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/HandyNotes.lua
+   M /trunk/HandyNotes.toc
+   A /trunk/HandyNotesLegion.lua
+
+Clone HandyNotes.lua to separate a Legion and BfA version
+------------------------------------------------------------------------
+

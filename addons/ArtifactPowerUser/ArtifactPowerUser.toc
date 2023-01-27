@@ -1,0 +1,14 @@
+## Interface: 70300
+## Title: ArtifactPowerUser
+## Version: 3.2
+## Notes: Creates button to use Artifact Power items faster
+## Author: FlyNeko
+## SavedVariables: ArtifactPowerUserDB
+## SavedVariablesPerCharacter: ArtifactPowerUserCharacterDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+ArtifactPowerUser.lua
+ArtifactPowerUser.xml

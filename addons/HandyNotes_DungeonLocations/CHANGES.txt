@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r75 | Caliaha | 2018-06-23 00:22:24 +0000 (Sat, 23 Jun 2018) | 2 lines
+Changed paths:
+   M /trunk/HandyNotes_DungeonLocations.lua
+
+Fixed issue with serpentshrine cavern lockout not showing, hopefully didn't break others
+
+------------------------------------------------------------------------
+

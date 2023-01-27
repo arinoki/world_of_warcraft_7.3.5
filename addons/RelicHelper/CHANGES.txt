@@ -1,0 +1,12 @@
+tag b0fca5a32e275565a66c57eb03c8a4fb781513a6 2.7
+Author:	Starfox <w@t.f>
+Date:	Sun Mar 4 16:31:05 2018 +0100
+
+Tag 2.7
+
+commit f893b43bb3f2780de0ea6f58cf8ca49248102113
+Author: Starfox <w@t.f>
+Date:   Sun Mar 4 16:30:56 2018 +0100
+
+    Fix nil error
+
